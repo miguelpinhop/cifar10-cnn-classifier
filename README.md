@@ -24,5 +24,5 @@ This project implements a deep learning model using Convolutional Neural Network
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/seuusuario/cifar10-cnn-classifier.git
+git clone https://github.com/miguelpinhop/cifar10-cnn-classifier.git
 cd cifar10-cnn-classifier
